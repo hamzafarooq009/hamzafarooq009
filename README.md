@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Unit-Testing in Java-8 with JUnit
+### Get in touch:
 - 📫 How to reach me: hamzafarooq.lums@gmail.com
 - :shipit: LinkedIn: [HamzaFarooq](https://www.linkedin.com/in/hamza-farooq-lums/)
