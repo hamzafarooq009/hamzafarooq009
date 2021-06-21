@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Fresh Computer Science Graduate from LUMS.
+I am a recent Computer Science Graduate from LUMS.
 <!--
 **hamzafarooq009/hamzafarooq009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
