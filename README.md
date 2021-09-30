@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Unit-Testing in Java-8 with JUnit
+- 🔭 I’m currently working on AWS and Cloud labs
 ### Get in touch:
 - 📫 How to reach me: hamzafarooq.lums@gmail.com
 - :shipit: LinkedIn: [HamzaFarooq](https://www.linkedin.com/in/hamza-farooq-lums/)
